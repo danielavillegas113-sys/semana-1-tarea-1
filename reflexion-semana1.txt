@@ -1,0 +1,9 @@
+¡Qué relación encuentras entre el uso responsable 
+de la información en internet, la participación ciudadana 
+y la organización del trabajo técnico con herramientas como Git?
+
+El uso responsable de la información, la participación ciudadana y 
+las herramientas de control de versiones como Git se conectan a través
+ de la colaboración abierta, la transparencia y la trazabilidad.
+ Todos promueven la democratización del conocimiento y el trabajo 
+en comunidad bajo el principio de rendición de cuentas. 
